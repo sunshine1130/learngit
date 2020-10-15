@@ -8,4 +8,4 @@ abcdef
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 add merge
-bug is gone now.
+bug is gone now02.
